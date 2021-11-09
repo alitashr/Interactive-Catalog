@@ -1,0 +1,25 @@
+
+:root {
+  --brand1: #028697;
+  --brand2: #067482;
+  --brand3: #078999;
+  --brand4: #0ea8bb;
+  --brand5: #07c3da;
+
+  --brand-error-color: #DE7A22;
+
+  --bg-primary:#F7F8F8;
+  --bg-primary-hover:#EFF0F2;
+  --bg-primary-active:#E5E7E9;
+  --bg-secondary:#EEF0F1;
+  --text-primary:#939A9F;
+  --text-primary-muted:#C7CBCE;
+  --text-primary-active:#30363B;
+  --text-primary-hover:#7C858B;
+  --utility-fade:	linear-gradient(180deg, rgba(247, 248, 248, 0) 0%, var(--bg-primary) 100%);
+  --utility-input-fade: linear-gradient(270deg, var(--bg-secondary) 0%, rgba(196, 196, 196, 0) 100%);
+
+  --transition-opacity: opacity 0.5s ease-in-out;
+  
+  --quicker-transition-opacity: opacity 0.25s ease-in-out;
+}

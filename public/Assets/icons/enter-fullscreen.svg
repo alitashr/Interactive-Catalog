@@ -1,0 +1,12 @@
+<svg width="25" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#icons/enter-fullscreen-b__clip0)" fill-rule="evenodd" clip-rule="evenodd" fill="#676F75">
+    <path d="M3.666 3.5h4.856v1H4.666v3.704h-1V3.5zm0 17h4.856v-1H4.666v-3.704h-1V20.5z"/>
+    <path d="M9.674 10.062L3.817 4.358l.698-.716 5.856 5.704-.697.716zm0 3.876l-5.857 5.704.698.716 5.856-5.704-.697-.716zM20.666 3.5H15.81v1h3.856v3.704h1V3.5zm0 17H15.81v-1h3.856v-3.704h1V20.5z"/>
+    <path d="M14.658 10.062l5.857-5.704-.698-.716-5.857 5.704.698.716zm0 3.876l5.857 5.704-.698.716-5.857-5.704.698-.716z"/>
+  </g>
+  <defs>
+    <clipPath id="icons/enter-fullscreen-b__clip0">
+      <path fill="#fff" transform="translate(.166)" d="M0 0h24v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>

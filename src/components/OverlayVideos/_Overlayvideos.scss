@@ -1,0 +1,31 @@
+.flipbook-custom-catalog-videos {
+  position: absolute;
+  pointer-events: none;
+  justify-content: center;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  left: 0;
+  right: 0;
+  
+  div#seashoreVideoIframe {
+    align-items: center;
+    justify-content: center;
+    &.shown{
+      display: flex;
+    }
+  }
+}
+.bd-overlay-image{
+  pointer-events: none;
+  display: none;
+  &.seashoreVideoIframe{
+    position: absolute;
+    right: 0;
+    width: 50%;
+    top: 0;
+  }
+  &.shown{
+    display: block;
+  }
+}

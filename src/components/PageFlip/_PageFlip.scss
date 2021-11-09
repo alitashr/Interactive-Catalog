@@ -1,0 +1,30 @@
+.flip-book {
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+  display: none;
+  background-size: cover;
+}
+.flipage-image{
+  max-width: 100%;
+}
+.flipbook-overlay {
+  position: absolute;
+  top: 0;
+  left: 15%;
+  width: 70%;
+  height: 100%;
+}
+.flipage-image-text{
+  position: absolute;
+  left:0;
+  width:100%;
+  top:0;
+}
+.page.stf__item.--soft.--simple.--left {
+  left: 0 !important;
+  width: 50% !important;
+}
+
+.page.stf__item.--soft.--simple.--right {
+  right: 0 !important;
+  width: 50% !important;
+}
