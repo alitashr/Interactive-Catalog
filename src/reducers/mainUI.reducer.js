@@ -1,4 +1,5 @@
 import React from "react";
+import {explorugPopUpUrl} from "../constants/InTheClouds-catalog-constants";
 
 const UiStateContext = React.createContext();
 const UiDispatchContext = React.createContext();
@@ -44,8 +45,9 @@ const initialUiState = {
     //"https://v3dev.explorug.com/build/explorug.html?page=beyonddreams2&?&initdesign=Designs/Artwork/Bamboo.ctf&mode=ecat&customclass=no-color-customization"
     //"https://v3dev.explorug.com/build/explorug.html?page=beyonddreams2&?&initdesign=Designs/Artwork/Assorted Design/Tappeto Classico.ctf&mode=ecat&customclass=no-color-cust selected-views-only view-tappeto",
   //"http://localhost:23456/?page=beyonddreams2",
+  explorugPopUpUrl,
   //"https://v3.explorug.com/explorug.html?page=beyonddreams&mode=ecat&initdesign=2021%20EPI2/designs/Distant%20Waves",
-  "https://v3.explorug.com/explorug.html?page=dgd&mode=ecat&initdesign=PLAID%20A%20LIGHT%20GREY&initview=Lounge",
+  //"https://v3.explorug.com/explorug.html?page=dgd&mode=ecat&initdesign=PLAID%20A%20LIGHT%20GREY&initview=Lounge",
 
   showExhibitionPopup: false,
   exhibitionPopUpUrl: "",

@@ -13,7 +13,7 @@ export const catalog_eachPageSize = {w: 1920, h:2160}
 export const totalPageNumber = 11;
 export const customCatalog_eachPageSize = catalog_eachPageSize;
 export const  mainPageCatalogImage = '';
- 
+export const explorugPopUpUrl =  "https://v3.explorug.com/explorug.html?page=beyonddreams&mode=ecat&initdesign=2021%20EPI2/designs/Distant%20Waves";
 export const mainPageImages = [
   "01 - L.jpg",
   "01 - R.jpg"
